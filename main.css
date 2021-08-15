@@ -25,7 +25,7 @@ body {
 
 header .full-width {
   height: 800px;
-  background-image: url("jubileeausten/full-background.png");
+  background-image: url("../jubileeausten/full-background.png");
   background-size: cover;
   background-position: center;
 }
